@@ -1,4 +1,6 @@
 # hfes2025-workshop
+------
+Get your Google Gemini API here: [Link here](https://console.cloud.google.com/apis/)
 
 ChainForge Exercise (compare prompts): [Link here](https://chainforge.ai/play/?f=3dw2h6x2ydq80)
 
