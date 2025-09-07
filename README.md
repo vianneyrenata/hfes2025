@@ -2,7 +2,7 @@
 
 ChainForge Exercise (compare prompts): [Link here](https://chainforge.ai/play/?f=3dw2h6x2ydq80)
 
-ChainForge Exercise (check hallucination): [Link here](https://chainforge.ai/play/?f=15kfi53m48q34)
+ChainForge Exercise (trivia): [Link here](https://chainforge.ai/play/?f=1p56udks6y0xu)
 
 ------
 API Basics with Python (Pt 1): [Link here](https://colab.research.google.com/drive/15R-hkuZQtyla96ZuuMvOWrjNND9ASDoO?usp=sharing)
