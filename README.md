@@ -11,3 +11,5 @@ Sheets LLM Demo: [Link here](https://docs.google.com/spreadsheets/d/1bG7fiyAzJYx
 API Basics with Python (Pt 1): [Link here](https://colab.research.google.com/drive/15R-hkuZQtyla96ZuuMvOWrjNND9ASDoO?usp=sharing)
 
 RAG Basics with Python (Pt 2): [Link here](https://colab.research.google.com/drive/1yca6WHGDih-diuSzVirehRrZMqgNnvj9?usp=sharing)
+
+Agent Basics with Python (Pt 3): [Link here](https://colab.research.google.com/drive/1TeRdOgB7wx_F3k8zwXqb3JHHxpXEuQjJ?usp=sharing)
